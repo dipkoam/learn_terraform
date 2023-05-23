@@ -15,7 +15,3 @@ This is an excersize in learning how to deploy an s3 bucket with Terraform
 - Destroy bucket
 - Attempt to provision several s3 buckets using the for_each operator
 - Destroy bucket again :-)
-
-
-
-
